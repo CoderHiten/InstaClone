@@ -1,0 +1,75 @@
+
+.sidebar {
+    margin-top: 0;
+    padding: 0;
+    width: 220px;
+    background-color: #fff;
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 8px 12px 20px 12px;
+    border-right: 1px solid #dcdcdc;
+    /*overflow: auto;*/
+}
+
+.insta-text-box-container{
+    height: 92px;
+    width: 220px;
+}
+
+.insta-text-box{
+    height: 32px;
+    width: 196px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 25px;
+    padding-bottom: 16px;
+    margin-bottom: 19px;
+}
+
+.insta-text{
+    height: 29px;
+    width: 103px;
+    margin-top: 8px;
+}
+
+.insta-text img {
+    height: 29px;
+    width: 103px;
+}
+
+.menu-bar {
+    width: 220px;
+    height: 50px;
+}
+
+.menu {
+    display: flex;
+    width: 196px;
+    height: 24px;
+    padding: 12px;
+    margin: 2px 0 0 0;
+}
+
+.menu img {
+    width: 24px;
+    height: 24px;
+}
+
+.menu p{
+    padding-left: 16px;
+    height: 24px;
+    line-height: 24px;
+    width: auto;
+    color: black;
+    font-family: Roboto;
+    margin: 0;
+    display: inline-block;
+}
+
+  /* div.content {
+    margin-left: 245px;
+    padding: 1px 16px;
+    height: 1000px;
+  } */
